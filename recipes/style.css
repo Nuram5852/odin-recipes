@@ -25,6 +25,10 @@ h1 {
     margin-bottom: 5px;
 }
 
+.largeimage {
+    max-width: 70%;
+}
+
 img {
     display: block;
     margin: auto;
